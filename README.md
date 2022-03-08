@@ -25,7 +25,7 @@ $ yarn test:unit
 Opne http://localhost:3000/ in your browser
 Type the text into the input field and press "PARSE" button to show the list of most used words
 
-![This is an image](https://github.com/ittechman101/nodebackend/blob/main/screenshot.PNG)
+![This is an image](https://github.com/ittechman101/NodeWord/blob/main/screenshot.PNG)
 
 # any improvements
 1. file upload progressbar
